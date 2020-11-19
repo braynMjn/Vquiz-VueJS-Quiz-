@@ -1,24 +1,14 @@
 # vquiz
 
-## Project setup
-```
-npm install
-```
+Just a simple animal quiz VueJS project made while learning VueJS Crash Course from FreeCodeCamp
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Steps to install:**
+1. Download the project.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Open terminal and type: "npm run serve".
 
-### Lints and fixes files
-```
-npm run lint
-```
+3. The site will be live at port 8080 i.e. localhost:8080
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+***Note: Node and VueJS must be installed.***
+
+![Screenshot](Screenshot.jpg)
